@@ -1,5 +1,5 @@
 <img align='left' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px;">
-<h2>
+<h2 style="padding-top: -20px;">
     I'm Sean Quijote!
     <!-- <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> -->
 </h2>
@@ -8,7 +8,7 @@
     <em>
         Software Engineer at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
-        <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="20">
+        <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="20"> -->
     </em>
 </p>
 
