@@ -1,4 +1,4 @@
-[![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
+[![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 
 ### Hi there 👋
 
