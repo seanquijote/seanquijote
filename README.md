@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seanquijote/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Super hyped up for Monster Hunter Rise
--->
