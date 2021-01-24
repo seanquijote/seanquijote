@@ -1,4 +1,4 @@
-[![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
+[![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 
 ### Hi there 👋
 
@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about stuff
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seanquijote/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Super hyped up for Monster Hunter Rise
+- ⚡ Fun fact: Hyped up for Monster Hunter Rise
