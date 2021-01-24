@@ -27,7 +27,7 @@ npx seanquijote
 ```
 **👆 This command line tool can be found at [npx seanquijote](https://github.com/seanquijote/npx_card)**
 
-## <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
+### <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
 ```javascript
 const seanquijote = {
