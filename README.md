@@ -8,7 +8,7 @@
     <em>
         Software Engineer at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
-        <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30" style="position: absolute;">
+        <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30" style="position: absolute;"> -->
     </em>
 </p>
 <br />
@@ -19,7 +19,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote)
 
 
-<br/>
 <br/>
 👇 Hit in your console or terminal to connect with me.
 
