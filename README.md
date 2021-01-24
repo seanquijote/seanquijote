@@ -8,7 +8,7 @@
     <em>
         Software Engineer at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
-        <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="20"> -->
+        <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30">
     </em>
 </p>
 <br />
@@ -19,10 +19,18 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote)
 
 
+<br/>
+👇 Hit in your console or terminal to connect with me.
+
+```bash
+npx seanquijote
+```
+**👆 This command line tool can be found at [npx seanquijote](https://github.com/seanquijote/npx_card)**
+
 ## <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
 ```javascript
-const sean = {
+const seanquijote = {
     pronouns: "He" || "Him",
     code: ["PHP", "Javascript", "Typescript", "C#", "Java"],
     askMeAbout: ["*"],
