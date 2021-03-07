@@ -6,7 +6,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
     <em>
-        Software Engineer at 
+        Software Developer at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
         <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30" style="position: absolute;"> -->
     </em>
