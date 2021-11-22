@@ -42,14 +42,16 @@ const seanquijote = {
         },
         backEnd: {
             js: ["NodeJS", "Express"],
-            php: ["Laravel", "CodeIgniter"]
+            php: ["Laravel", "CodeIgniter"],
+            java: ["Quarkus"]
         },
+        blockChain: ["Solidity"],
         devOps: ["Azure", "Docker"],
         databases: ["MongoDB", "MySql"],
-        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN"]
+        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN", "Infura"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Learning React and React Native",
+    architecture: ["Serverless Architecture", "Microservice Architecture"],
+    currentFocus: "Learning smart contract development",
     funFact: "Videogames make you smarter"
 };
 ```
