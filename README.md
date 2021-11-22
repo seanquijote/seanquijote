@@ -43,12 +43,12 @@ const seanquijote = {
         backEnd: {
             js: ["NodeJS", "Express"],
             php: ["Laravel", "CodeIgniter"],
-            java: ["Quarkus"]
+            java: ["Quarkus", "GraalVM"]
         },
-        blockChain: ["Solidity"],
+        blockChain: ["Solidity", "Truffle", "Ganache"],
         devOps: ["Azure", "Docker"],
         databases: ["MongoDB", "MySql"],
-        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN", "Infura"]
+        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN"]
     },
     architecture: ["Serverless Architecture", "Microservice Architecture"],
     currentFocus: "Learning smart contract development",
