@@ -18,7 +18,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
 
-![](https://raw.githubusercontent.com/kiriDevs/kiriDevs/main/github-metrics.svg)<br>
+![](https://raw.githubusercontent.com/seanquijote/seanquijote/main/github-metrics.svg)<br>
 
 <br/>
 👇 Type this in your console to connect with me.
