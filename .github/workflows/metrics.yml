@@ -14,6 +14,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_introduction: no
+          plugin_introduction_title: no
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
