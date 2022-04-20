@@ -13,6 +13,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Manila
+          base: header, activity, community, repositories, metadata
           plugin_introduction: no
           plugin_introduction_title: no
           plugin_isocalendar: yes
