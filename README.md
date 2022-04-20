@@ -27,6 +27,7 @@ npx seanquijote
 **👆 This cli tool can be found at [npx seanquijote](https://github.com/seanquijote/npx-card)**
 
 ![](https://raw.githubusercontent.com/seanquijote/seanquijote/main/github-metrics.svg)<br>
+![Last Update](https://github.com/kiriDevs/kiriDevs/workflows/GitHub%20metrics/badge.svg)
 
 ### <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
