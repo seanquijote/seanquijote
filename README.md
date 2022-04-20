@@ -18,8 +18,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
 
-![](https://raw.githubusercontent.com/seanquijote/seanquijote/main/github-metrics.svg)<br>
-
 <br/>
 👇 Type this in your console to connect with me.
 
@@ -27,6 +25,8 @@
 npx seanquijote
 ```
 **👆 This cli tool can be found at [npx seanquijote](https://github.com/seanquijote/npx-card)**
+
+![](https://raw.githubusercontent.com/seanquijote/seanquijote/main/github-metrics.svg)<br>
 
 ### <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
