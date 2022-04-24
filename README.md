@@ -17,6 +17,7 @@
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
+![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)
 
 <br/>
 👇 Type this in your console to connect with me.
