@@ -36,26 +36,27 @@ npx seanquijote
 ```javascript
 const seanquijote = {
     pronouns: "He" || "Him",
-    code: ["PHP", "Javascript", "Typescript", "C#", "Java"],
+    code: ["PHP", "Javascript", "Typescript", "C#", "Java", "Solidity", "Bash"],
     askMeAbout: ["*"],
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["Angular", "React"],
+            js: ["Angular", "React", "React Redux", "jQuery", "Axios"],
             css: ["Bootstrap", "Materialize", "Material-UI"]
         },
         backEnd: {
             js: ["NodeJS", "Express"],
             php: ["Laravel", "CodeIgniter"],
-            java: ["Quarkus", "GraalVM"]
+            java: ["Quarkus", "GraalVM"],
+            python: ["Django REST"]
         },
-        blockChain: ["Solidity", "Truffle", "Ganache"],
-        devOps: ["Azure", "Docker"],
-        databases: ["MongoDB", "MySql"],
-        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN"]
+        blockChain: ["Solidity", "Truffle", "Ganache", "Metamask"],
+        devOps: ["Docker", "Azure", "AWS"],
+        databases: ["MongoDB", "MySQL"],
+        dependencyManagers: ["NPM", "Composer", "Nuget", "Maven"],
+        misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN", "PayPal API/SDK", "DropBox JS SDK"]
     },
-    architecture: ["Serverless Architecture", "Microservice Architecture"],
-    currentFocus: "Learning smart contract development",
-    funFact: "Videogames make you smarter"
+    architecture: ["N‑Tier Architecture", "Microservice Architecture", "Monolithic Architecture"],
+    currentFocus: "Reviewing design patterns, data structures, and algorithms"
 };
 ```
