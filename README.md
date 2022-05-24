@@ -1,7 +1,6 @@
 <img align='left' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px;">
 <h2 style="padding-top: -20px;">
     I'm Sean Quijote!
-    <!-- <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> -->
 </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>
@@ -16,7 +15,7 @@
 [![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote&left_text=Visitors)
-<!-- ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social) -->
+![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
 ![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)
 
 <br/>
