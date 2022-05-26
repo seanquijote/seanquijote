@@ -1,12 +1,11 @@
-<div align="left">
-    <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px; float: left;">
-</div>
-<h2 style="padding-top: -20px;">
-    I'm Sean Quijote!
-</h2>
-<div align="right">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</div>
+## <img src="https://i.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.webp" width="50"> I'm Sean Quijote!
+https://i.giphy.com/media/vKhKsyEFVK4IuEKzWY/giphy.webp
+<!-- <div align="left" width="100%">
+    <img align="left" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" style="padding-right: 10px;">
+</div> -->
+<!-- <div align="right"> -->
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="padding-right: 1000px; display: inline-block;">
+<!-- </div> -->
 <p>
     <em>
         Software Developer at 
