@@ -1,4 +1,4 @@
-<p align="left">
+<p style="float: left;">
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px; float: left;" align="left">
 </p>
 <h2 style="padding-top: -20px;">
