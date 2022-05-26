@@ -1,12 +1,12 @@
-<p style="float: left;">
+<p align="left">
     <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px; float: left;" align="left">
 </p>
-<p style="float: left;">
+<p align="left">
     <h2 style="padding-top: -20px;">
         I'm Sean Quijote!
     </h2>
 </p>
-<p style="float: right;">
+<p align="right">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p>
 <p>
