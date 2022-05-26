@@ -1,4 +1,4 @@
-<img align='left' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px;">
+<!-- <img align='left' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px;"> -->
 <h2 style="padding-top: -20px;">
     I'm Sean Quijote!
     <!-- <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> -->
