@@ -1,12 +1,12 @@
 <p align="left">
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px; float: left;" align="left">
 </p>
-<p align="right">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</p>
 <h2 style="padding-top: -20px;">
     I'm Sean Quijote!
 </h2>
+<p align="right">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</p>
 <p>
     <em>
         Software Developer at 
