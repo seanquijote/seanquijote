@@ -4,7 +4,7 @@
 <h2 style="padding-top: -20px;">
     I'm Sean Quijote!
 </h2>
-<p align="right">
+<p style="float: right;">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p>
 <p>
