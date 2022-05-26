@@ -1,8 +1,8 @@
-<img align='left' src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px;">
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="230" style="padding-right: 10px; float: left;">
 <h2 style="padding-top: -20px;">
     I'm Sean Quijote!
 </h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="float: right;">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" style="float: right;">
 <p>
     <em>
         Software Developer at 
