@@ -3,18 +3,19 @@
 <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 <p>
     <em>
-        Software Developer at 
+        Software Developer II at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
         <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30" style="position: absolute;"> -->
     </em>
 </p>
 <br />
 
-[![linkedin badge](https://img.shields.io/badge/Sean_Quijote-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote&left_text=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
 ![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)
+[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10783786)](https://stackoverflow.com/users/10783786/seanquijote)
 
 <br/>
 👇 Type this in your console to connect with me.
