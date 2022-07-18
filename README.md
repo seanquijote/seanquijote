@@ -14,7 +14,7 @@
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote&left_text=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
-![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)
+[![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)](https://www.codewars.com/users/seanquijote)
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/10783786)](https://stackoverflow.com/users/10783786/seanquijote)
 
 <br/>
@@ -58,3 +58,8 @@ const seanquijote = {
     currentFocus: "Reviewing design patterns, data structures, and algorithms"
 };
 ```
+
+### <img src="https://media.giphy.com/media/fSRwObL55X3UkYQt54/giphy.gif" width="30"> My certifications...
+
+<a href="https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq"><img src="https://user-images.githubusercontent.com/13918341/179546919-00e53bcc-bcfd-4ebf-9035-0638c0c31852.png" height="100" width="100"></a>
+<a href="https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684"><img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" height="100" width="100"></a>
