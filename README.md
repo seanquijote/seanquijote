@@ -1,5 +1,5 @@
 <img src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp" width="230" align="left">
-<h2> I'm Sean Quijote!</h2>
+<h1> I'm Sean Quijote!</h1>
 <img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 <p>
     <em>
@@ -29,7 +29,7 @@ npx seanquijote
 [![Metrics](https://github.com/seanquijote/seanquijote/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/seanquijote/seanquijote/actions/workflows/metrics.yml)
 
 
-### <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
+## <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
 ```javascript
 const seanquijote = {
@@ -59,7 +59,9 @@ const seanquijote = {
 };
 ```
 
-### <img src="https://media.giphy.com/media/fSRwObL55X3UkYQt54/giphy.gif" width="30"> My certifications...
+## <img src="https://media.giphy.com/media/fSRwObL55X3UkYQt54/giphy.gif" width="30"> My certifications...
 
-<a href="https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq"><img src="https://user-images.githubusercontent.com/13918341/179546919-00e53bcc-bcfd-4ebf-9035-0638c0c31852.png" height="100" width="100"></a>
-<a href="https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684"><img src="https://images.credly.com/size/340x340/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png" height="100" width="100"></a>
+| Badge | Title | Issuing Organization | Issue Date | Expiration Date |
+| :---: | :---- | :------------------: | :--------: | :-------------: |
+<img src="https://user-images.githubusercontent.com/13918341/179546919-00e53bcc-bcfd-4ebf-9035-0638c0c31852.png" width="170" /> | [Jira Fundamentals Badge](https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq) | Atlassian | July 10, 2022 | NA
+![Scrum Foundation Professional Certificate - SFPC™ Badge](https://images.credly.com/size/170x170/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png) | [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684) | CertiProf | July 18, 2022 | July 18, 2024
