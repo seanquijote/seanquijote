@@ -1,11 +1,14 @@
 <img src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp" width="230" align="left">
 <h1> I'm Sean Quijote!</h1>
-<img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230" align="right">
+	<source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
+	<img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
+</picture>
 <p>
     <em>
         Software Developer II at 
         <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
-        <!-- <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="30" style="position: absolute;"> -->
     </em>
 </p>
 <br />
