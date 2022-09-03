@@ -7,8 +7,8 @@
 </picture>
 <p>
     <em>
-        Software Developer II at 
-        <a href="https://www.nextixsystems.com/">NextIX Inc.</a>
+        Java Developer/Support at 
+        <a href="https://www.it-spac.com/">SPAC Information Technology Inc.</a>
     </em>
 </p>
 <br />
