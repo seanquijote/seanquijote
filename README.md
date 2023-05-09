@@ -7,8 +7,8 @@
 </picture>
 <p>
     <em>
-        Java Developer/Support at 
-        <a href="https://www.it-spac.com/">SPAC Information Technology Inc.</a>
+	Full-Stack Software Engineer at 
+        <a href="https://www.8x8.com/">8x8 Philippines Inc.</a>
     </em>
 </p>
 <br />
@@ -68,4 +68,5 @@ const seanquijote = {
 | Badge | Title | Issuing Organization | Issue Date | Expiration Date |
 | :---: | :---- | :------------------: | :--------: | :-------------: |
 <img src="https://user-images.githubusercontent.com/13918341/179546919-00e53bcc-bcfd-4ebf-9035-0638c0c31852.png" width="170" /> | [Jira Fundamentals Badge](https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq) | Atlassian | July 10, 2022 | NA
-![Scrum Foundation Professional Certificate - SFPC™ Badge](https://images.credly.com/size/170x170/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png) | [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684) | CertiProf | July 18, 2022 | July 18, 2024
+![Scrum Foundation Professional Certificate - SFPC™ Badge](https://images.credly.com/size/170x170/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png) | [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684/public_url) | CertiProf | July 18, 2022 | July 18, 2024
+![Remote Work Professional Certification - RWPC™ Badge](https://images.credly.com/size/170x170/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png) | [Remote Work Professional Certification - RWPC™](https://www.credly.com/badges/1c996129-0f07-4eff-8180-3e199adbe567/public_url) | CertiProf | February 27, 2023 | February 27, 2026
