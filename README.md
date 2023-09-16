@@ -15,7 +15,6 @@
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=seanquijote.seanquijote&left_text=Visitors)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
 [![LeetCode user seanquijote](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fseanquijote&logo=leetcode&logoColor=yellow)](https://leetcode.com/seanquijote/)
 [![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)](https://www.codewars.com/users/seanquijote)
@@ -68,5 +67,5 @@ const seanquijote = {
 | Badge | Title | Issuing Organization | Issue Date | Expiration Date |
 | :---: | :---- | :------------------: | :--------: | :-------------: |
 <img src="https://user-images.githubusercontent.com/13918341/179546919-00e53bcc-bcfd-4ebf-9035-0638c0c31852.png" width="170" /> | [Jira Fundamentals Badge](https://university.atlassian.com/student/award/HicSG8MWWiMdTX75GZJtfXHq) | Atlassian | July 10, 2022 | NA
-![Scrum Foundation Professional Certificate - SFPC™ Badge](https://images.credly.com/size/170x170/images/3be57d7c-55de-4119-9ca9-738e20c0fae0/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png) | [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684/public_url) | CertiProf | July 18, 2022 | July 18, 2024
+![Scrum Foundation Professional Certificate - SFPC™ Badge](https://images.credly.com/size/170x170/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png) | [Scrum Foundation Professional Certificate - SFPC™](https://www.credly.com/badges/6415ef00-b118-4c69-a31b-3e1d4cbcf684/public_url) | CertiProf | July 18, 2022 | July 18, 2024
 ![Remote Work Professional Certification - RWPC™ Badge](https://images.credly.com/size/170x170/images/ea2c9f2e-b7e1-4a5a-a82e-7e94b67b35bd/image.png) | [Remote Work Professional Certification - RWPC™](https://www.credly.com/badges/1c996129-0f07-4eff-8180-3e199adbe567/public_url) | CertiProf | February 27, 2023 | February 27, 2026
