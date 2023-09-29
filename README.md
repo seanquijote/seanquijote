@@ -1,17 +1,17 @@
 <img src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp" width="230" align="left">
-<h1> I'm Sean Quijote!</h1>
+<h1>I'm Sean Quijote!</h1>
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230" align="right">
+	<source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230" align="right">
 	<source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 	<img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 </picture>
 <p>
     <em>
-	Full-Stack Software Engineer at 
+		Full-Stack Software Engineer at 
         <a href="https://www.8x8.com/">8x8 Philippines Inc.</a>
     </em>
 </p>
-<br />
+<br/>
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
@@ -42,11 +42,11 @@ const seanquijote = {
     technologies: {
         mobileApp: ["React Native"],
         frontEnd: {
-            js: ["Angular", "React", "React Redux", "jQuery", "Axios"],
+            js: ["Angular", "Vue", "React", "React Redux", "jQuery", "Axios"],
             css: ["Bootstrap", "Materialize", "Material-UI"]
         },
         backEnd: {
-            js: ["NodeJS", "Express"],
+            js: ["NodeJS", "Express", "Koa", "Egg.js"],
             php: ["Laravel", "CodeIgniter"],
             java: ["Quarkus", "GraalVM"],
             python: ["Django REST"]
