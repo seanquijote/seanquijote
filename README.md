@@ -16,6 +16,7 @@
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
+![](https://komarev.com/ghpvc/?username=seanquijote)
 [![LeetCode user seanquijote](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fseanquijote&logo=leetcode&logoColor=yellow)](https://leetcode.com/seanquijote/)
 [![Codewars](https://www.codewars.com/users/seanquijote/badges/micro)](https://www.codewars.com/users/seanquijote)
 [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10783786)](https://stackoverflow.com/users/10783786/seanquijote)
