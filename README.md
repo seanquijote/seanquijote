@@ -1,18 +1,25 @@
-<img src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp" width="230" align="left">
-<h1>I'm Sean Quijote!</h1>
+<!-- Header -->
+<img src="https://i.giphy.com/media/Nx0rz3jtxtEre/giphy.webp" width="250" align="left">
+<div id="user-content-toc">
+	<ul align="center" style="list-style: none;">
+    	<summary>
+			<h1>Hi,👋🏻 I'm Sean!</h1>
+		</summary>
+		<em>
+			Full-Stack Software Engineer at 
+			<a href="https://www.8x8.com/">8x8 Philippines Inc.</a>
+		</em>
+	</ul>
+</div>
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230" align="right">
 	<source media="(prefers-color-scheme: light)" srcset="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 	<img src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="230" align="right">
 </picture>
-<p>
-    <em>
-		Full-Stack Software Engineer at 
-        <a href="https://www.8x8.com/">8x8 Philippines Inc.</a>
-    </em>
-</p>
+
 <br/>
 
+<!-- Badges -->
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/seanquijote/)
 [![website badge](https://img.shields.io/badge/Website-30302f?style=flat&logo=angular)](https://seanquijote.github.io/)
 ![GitHub followers](https://img.shields.io/github/followers/seanquijote?label=Follow&style=social)
@@ -22,6 +29,8 @@
 [![StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10783786)](https://stackoverflow.com/users/10783786/seanquijote)
 
 <br/>
+
+<!-- NPX Card -->
 👇 Type this in your console to connect with me.
 
 ```bash
@@ -29,10 +38,11 @@ npx seanquijote
 ```
 **👆 This cli tool can be found at [npx seanquijote](https://github.com/seanquijote/npx-card)**
 
+<!-- GitHub Metrics -->
 ![](https://raw.githubusercontent.com/seanquijote/seanquijote/main/github-metrics.svg)<br>
 [![Metrics](https://github.com/seanquijote/seanquijote/actions/workflows/metrics.yml/badge.svg?branch=main)](https://github.com/seanquijote/seanquijote/actions/workflows/metrics.yml)
 
-
+<!-- Skills -->
 ## <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30"> A little more about me... 
 
 ```javascript
@@ -59,10 +69,10 @@ const seanquijote = {
         misc: ["Tensorflow", "Open-CV", "UWP", "Firebase", "Google Vision API", "SVN", "PayPal API/SDK", "DropBox JS SDK"]
     },
     architecture: ["N‑Tier Architecture", "Microservice Architecture", "Monolithic Architecture"],
-    currentFocus: "Reviewing design patterns, data structures, and algorithms"
+    currentFocus: "Getting certifications..."
 };
 ```
-
+<!-- Certifications -->
 ## <img src="https://media.giphy.com/media/fSRwObL55X3UkYQt54/giphy.gif" width="30"> My certifications...
 
 | Badge | Title | Issuing Organization | Issue Date | Expiration Date |
